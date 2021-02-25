@@ -8,7 +8,7 @@
 
 ## 1) Sobre 
 
-Principais informações do projeto, onde o usuário poderá entrar em contato via e-mail com os integrantes.
+Principais informações do projeto, onde o usuário poderá entrar em contato via e-mail com os integrantes. Obs.: A funcionalidade de envio de email será algo adicional, visando futuras melhorias do aplicativo.
 
 <p align="center">
       <img src="./img/sobre.png" width="300" height="500">
@@ -16,7 +16,7 @@ Principais informações do projeto, onde o usuário poderá entrar em contato v
   
 ## 2) Cadastro
 
-O usuário pode cadatrar um novo vegetal acionando o botão **Novo Vegetal**, que será redirecionado para uma nova página onde deverá informar o nome, a temperatura ideal o a umidade ideal do mesmo. Também será possível alterar as informações de um vegetal já existente acionando o ícone de edição ao lado do vegetal.
+O usuário pode cadastrar um novo vegetal acionando o botão **Novo Vegetal**, o qual será redirecionado para uma nova página onde deverá informar o nome, a temperatura ideal o a umidade ideal do mesmo. Também será possível alterar as informações de um vegetal já existente acionando o ícone de edição ao lado do vegetal.
 
 Em relação ao vaso, será permitido inativá-lo através do ícone vermelho ao lado de cada um dos objetos, ou alterá-lo para um novo vegetal.
 
